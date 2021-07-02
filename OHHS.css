@@ -25,7 +25,7 @@ header.header-main {
 }
 
 .logo {
-  background: url('//vdssupport.github.io/OHHS/OHHS/Lion.png') top center no-repeat;
+  background: url('//vdssupport.github.io/OHHS/Lion.png') top center no-repeat;
   display: inline-block;
   max-width: 400px !important;
   background-size: contain;
@@ -155,7 +155,7 @@ button.submit-login:focus
 }
 
 .admin-links a {
-	background: #005596;
+	background: #353535;
 }
 	
 
@@ -194,7 +194,7 @@ button.download_button {
 
 /* sidebar background color*/
 .sidebar-main, .sidebar-mobile {
-	background: #005596;
+	background: #353535;
 	
 }
 
