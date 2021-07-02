@@ -12,7 +12,7 @@ html {
 
 
 .splash {
-  background-color: #fff;
+  background-color: #000000;
 }
 
 .splash .loading path {
@@ -20,7 +20,7 @@ html {
 }
 
 header.header-main {
-  background-color: #fff;
+  background-color: #000000;
   height:8.5em;
 }
 
@@ -65,8 +65,8 @@ header.header-page {
 }
 
 .header-page .buttons button {
-  background-color: #C3D156;
-  color: #dec12c;
+  background-color: #2587e8;
+  color: #fff;
 }
 
 .header-page button {
@@ -77,8 +77,8 @@ header.header-page {
 .header-page .buttons button:hover,
 .header-page .buttons button:focus 
 {
-  background-color: #C3D156;
-  color: #dec12c;
+  background-color: #2587e8;
+  color: #fff;
 
   /* Alternative if the above doesn't look so great.
   background-color: #{{Color_2}};
